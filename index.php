@@ -15,7 +15,7 @@
  */
 
 get_header(); ?>
-
+<?php echo "hello everyone" ?>
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 
